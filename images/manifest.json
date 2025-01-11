@@ -7,5 +7,87 @@
             "All images loaded in engesen/FU.EN project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://engesen.github.io/FU.EN/images/one/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "one"
+                ]
+            },
+            "height": 958,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://engesen.github.io/FU.EN/images/one/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://engesen.github.io/FU.EN/images/one/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://engesen.github.io/FU.EN/images/one/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 30
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 60
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 479
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 958
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://engesen.github.io/FU.EN/images/one",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 958,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://engesen.github.io/FU.EN/images/one/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
