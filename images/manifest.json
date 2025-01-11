@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://engesen.github.io/FU.EN/images/three/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "three"
+                ]
+            },
+            "height": 960,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://engesen.github.io/FU.EN/images/three/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://engesen.github.io/FU.EN/images/three/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://engesen.github.io/FU.EN/images/three/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 30
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 60
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 480
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 960
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://engesen.github.io/FU.EN/images/three",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 960,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://engesen.github.io/FU.EN/images/three/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://engesen.github.io/FU.EN/images/one/canvas/",
             "type": "Canvas",
             "label": {
@@ -84,6 +165,249 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://engesen.github.io/FU.EN/images/one/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://engesen.github.io/FU.EN/images/four/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "four"
+                ]
+            },
+            "height": 960,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://engesen.github.io/FU.EN/images/four/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://engesen.github.io/FU.EN/images/four/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://engesen.github.io/FU.EN/images/four/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 30
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 60
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 480
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 960
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://engesen.github.io/FU.EN/images/four",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 960,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://engesen.github.io/FU.EN/images/four/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://engesen.github.io/FU.EN/images/five/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "five"
+                ]
+            },
+            "height": 983,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://engesen.github.io/FU.EN/images/five/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://engesen.github.io/FU.EN/images/five/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://engesen.github.io/FU.EN/images/five/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 246
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 492
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 983
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://engesen.github.io/FU.EN/images/five",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 983,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://engesen.github.io/FU.EN/images/five/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://engesen.github.io/FU.EN/images/two/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "two"
+                ]
+            },
+            "height": 820,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://engesen.github.io/FU.EN/images/two/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://engesen.github.io/FU.EN/images/two/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://engesen.github.io/FU.EN/images/two/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 52
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 103
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 205
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 410
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 820
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://engesen.github.io/FU.EN/images/two",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 820,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://engesen.github.io/FU.EN/images/two/canvas/"
                         }
                     ]
                 }
